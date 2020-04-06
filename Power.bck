@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DW01
+K lithium, charge, protection
+$ENDCMP
+#
+$CMP XC6206P332MR
+K regulator, 3.3V, 3V3
+$ENDCMP
+#
+#End Doc Library
