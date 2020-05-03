@@ -4,6 +4,11 @@ $CMP DW01
 K lithium, charge, protection
 $ENDCMP
 #
+$CMP SX1308
+D ajdustable step-up converter
+K boost step-up 2A
+$ENDCMP
+#
 $CMP XC6206P332MR
 K regulator, 3.3V, 3V3
 $ENDCMP

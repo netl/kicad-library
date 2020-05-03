@@ -1,11 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 2x2
-K 2x2
-$ENDCMP
-#
-$CMP 2x3_male_sm_SAO
-K 2x2
+$CMP L9110
+D H-bridge
+K motor driver H-bridge
 $ENDCMP
 #
 #End Doc Library

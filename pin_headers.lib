@@ -1,6 +1,21 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 1x3
+#
+DEF ~1x3 CN 0 40 Y Y 1 F N
+F0 "CN" 100 200 50 H V C CNN
+F1 "1x3" 0 200 50 H I C CNN
+F2 "" 0 100 50 H I C CNN
+F3 "" 0 -100 50 H I C CNN
+DRAW
+S 100 150 200 -150 0 1 0 F
+X ~ 1 0 100 100 R 50 50 1 1 B
+X ~ 2 0 0 100 R 50 50 1 1 B
+X ~ 3 0 -100 100 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
 # 1x6
 #
 DEF ~1x6 CN 0 40 Y Y 1 F N
