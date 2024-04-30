@@ -1,0 +1,16 @@
+(footprint "M3.5" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 6af54bc4-72c5-4940-aded-250d91e5377b)
+  )
+  (fp_text value "M3.5" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9272f001-a164-4679-8b96-995fc778dbcf)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 146cbd27-eee0-4369-b492-3a77b192cf1f)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 5.5 5.5) (drill oval 3.5) (layers "F&B.Cu" "*.Mask") (tstamp b32565c5-1794-4965-860e-a5e892b405fd))
+)
