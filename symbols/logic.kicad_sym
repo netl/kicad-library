@@ -6,7 +6,7 @@
     (property "Value" "SN74LVC1G17" (at 2.54 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Single Schmitt-Trigger Buffer" (at 22.86 -7.62 0)
+    (property "Footprint" "sc70:SC70-5L" (at 22.86 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf" (at 22.86 -10.16 0)
